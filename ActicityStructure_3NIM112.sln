@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ActicityStructure_3NIM112",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ActiviytyStructure 2 _ NIM 112", "ActiviytyStructure 2 _ NIM 112\ActiviytyStructure 2 _ NIM 112.vcxproj", "{62B6A3C7-EF9B-441D-A533-21850D8F5BBD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ActivityStructure 3 _112", "ActivityStructure 3 _112\ActivityStructure 3 _112.vcxproj", "{377425D7-9B4B-4176-907E-DFC86D712207}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{62B6A3C7-EF9B-441D-A533-21850D8F5BBD}.Release|x64.Build.0 = Release|x64
 		{62B6A3C7-EF9B-441D-A533-21850D8F5BBD}.Release|x86.ActiveCfg = Release|Win32
 		{62B6A3C7-EF9B-441D-A533-21850D8F5BBD}.Release|x86.Build.0 = Release|Win32
+		{377425D7-9B4B-4176-907E-DFC86D712207}.Debug|x64.ActiveCfg = Debug|x64
+		{377425D7-9B4B-4176-907E-DFC86D712207}.Debug|x64.Build.0 = Debug|x64
+		{377425D7-9B4B-4176-907E-DFC86D712207}.Debug|x86.ActiveCfg = Debug|Win32
+		{377425D7-9B4B-4176-907E-DFC86D712207}.Debug|x86.Build.0 = Debug|Win32
+		{377425D7-9B4B-4176-907E-DFC86D712207}.Release|x64.ActiveCfg = Release|x64
+		{377425D7-9B4B-4176-907E-DFC86D712207}.Release|x64.Build.0 = Release|x64
+		{377425D7-9B4B-4176-907E-DFC86D712207}.Release|x86.ActiveCfg = Release|Win32
+		{377425D7-9B4B-4176-907E-DFC86D712207}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
